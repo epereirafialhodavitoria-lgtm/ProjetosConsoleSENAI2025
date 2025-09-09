@@ -1,0 +1,15 @@
+D:\Eduarda - C#\Atividade 10\Atividade 10\bin\Debug\net7.0\Atividade 10.exe
+D:\Eduarda - C#\Atividade 10\Atividade 10\bin\Debug\net7.0\Atividade 10.deps.json
+D:\Eduarda - C#\Atividade 10\Atividade 10\bin\Debug\net7.0\Atividade 10.runtimeconfig.json
+D:\Eduarda - C#\Atividade 10\Atividade 10\bin\Debug\net7.0\Atividade 10.dll
+D:\Eduarda - C#\Atividade 10\Atividade 10\bin\Debug\net7.0\Atividade 10.pdb
+D:\Eduarda - C#\Atividade 10\Atividade 10\obj\Debug\net7.0\Atividade 10.csproj.AssemblyReference.cache
+D:\Eduarda - C#\Atividade 10\Atividade 10\obj\Debug\net7.0\Atividade 10.GeneratedMSBuildEditorConfig.editorconfig
+D:\Eduarda - C#\Atividade 10\Atividade 10\obj\Debug\net7.0\Atividade 10.AssemblyInfoInputs.cache
+D:\Eduarda - C#\Atividade 10\Atividade 10\obj\Debug\net7.0\Atividade 10.AssemblyInfo.cs
+D:\Eduarda - C#\Atividade 10\Atividade 10\obj\Debug\net7.0\Atividade 10.csproj.CoreCompileInputs.cache
+D:\Eduarda - C#\Atividade 10\Atividade 10\obj\Debug\net7.0\Atividade 10.dll
+D:\Eduarda - C#\Atividade 10\Atividade 10\obj\Debug\net7.0\refint\Atividade 10.dll
+D:\Eduarda - C#\Atividade 10\Atividade 10\obj\Debug\net7.0\Atividade 10.pdb
+D:\Eduarda - C#\Atividade 10\Atividade 10\obj\Debug\net7.0\Atividade 10.genruntimeconfig.cache
+D:\Eduarda - C#\Atividade 10\Atividade 10\obj\Debug\net7.0\ref\Atividade 10.dll
