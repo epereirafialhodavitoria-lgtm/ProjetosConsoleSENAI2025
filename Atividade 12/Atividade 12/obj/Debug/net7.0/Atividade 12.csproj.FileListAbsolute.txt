@@ -1,0 +1,15 @@
+D:\Eduarda - C#\Atividade 12\Atividade 12\bin\Debug\net7.0\Atividade 12.exe
+D:\Eduarda - C#\Atividade 12\Atividade 12\bin\Debug\net7.0\Atividade 12.deps.json
+D:\Eduarda - C#\Atividade 12\Atividade 12\bin\Debug\net7.0\Atividade 12.runtimeconfig.json
+D:\Eduarda - C#\Atividade 12\Atividade 12\bin\Debug\net7.0\Atividade 12.dll
+D:\Eduarda - C#\Atividade 12\Atividade 12\bin\Debug\net7.0\Atividade 12.pdb
+D:\Eduarda - C#\Atividade 12\Atividade 12\obj\Debug\net7.0\Atividade 12.csproj.AssemblyReference.cache
+D:\Eduarda - C#\Atividade 12\Atividade 12\obj\Debug\net7.0\Atividade 12.GeneratedMSBuildEditorConfig.editorconfig
+D:\Eduarda - C#\Atividade 12\Atividade 12\obj\Debug\net7.0\Atividade 12.AssemblyInfoInputs.cache
+D:\Eduarda - C#\Atividade 12\Atividade 12\obj\Debug\net7.0\Atividade 12.AssemblyInfo.cs
+D:\Eduarda - C#\Atividade 12\Atividade 12\obj\Debug\net7.0\Atividade 12.csproj.CoreCompileInputs.cache
+D:\Eduarda - C#\Atividade 12\Atividade 12\obj\Debug\net7.0\Atividade 12.dll
+D:\Eduarda - C#\Atividade 12\Atividade 12\obj\Debug\net7.0\refint\Atividade 12.dll
+D:\Eduarda - C#\Atividade 12\Atividade 12\obj\Debug\net7.0\Atividade 12.pdb
+D:\Eduarda - C#\Atividade 12\Atividade 12\obj\Debug\net7.0\Atividade 12.genruntimeconfig.cache
+D:\Eduarda - C#\Atividade 12\Atividade 12\obj\Debug\net7.0\ref\Atividade 12.dll
