@@ -1,0 +1,15 @@
+D:\Eduarda - C#\Atividade 11\Atividade 11\bin\Debug\net7.0\Atividade 11.exe
+D:\Eduarda - C#\Atividade 11\Atividade 11\bin\Debug\net7.0\Atividade 11.deps.json
+D:\Eduarda - C#\Atividade 11\Atividade 11\bin\Debug\net7.0\Atividade 11.runtimeconfig.json
+D:\Eduarda - C#\Atividade 11\Atividade 11\bin\Debug\net7.0\Atividade 11.dll
+D:\Eduarda - C#\Atividade 11\Atividade 11\bin\Debug\net7.0\Atividade 11.pdb
+D:\Eduarda - C#\Atividade 11\Atividade 11\obj\Debug\net7.0\Atividade 11.csproj.AssemblyReference.cache
+D:\Eduarda - C#\Atividade 11\Atividade 11\obj\Debug\net7.0\Atividade 11.GeneratedMSBuildEditorConfig.editorconfig
+D:\Eduarda - C#\Atividade 11\Atividade 11\obj\Debug\net7.0\Atividade 11.AssemblyInfoInputs.cache
+D:\Eduarda - C#\Atividade 11\Atividade 11\obj\Debug\net7.0\Atividade 11.AssemblyInfo.cs
+D:\Eduarda - C#\Atividade 11\Atividade 11\obj\Debug\net7.0\Atividade 11.csproj.CoreCompileInputs.cache
+D:\Eduarda - C#\Atividade 11\Atividade 11\obj\Debug\net7.0\Atividade 11.dll
+D:\Eduarda - C#\Atividade 11\Atividade 11\obj\Debug\net7.0\refint\Atividade 11.dll
+D:\Eduarda - C#\Atividade 11\Atividade 11\obj\Debug\net7.0\Atividade 11.pdb
+D:\Eduarda - C#\Atividade 11\Atividade 11\obj\Debug\net7.0\Atividade 11.genruntimeconfig.cache
+D:\Eduarda - C#\Atividade 11\Atividade 11\obj\Debug\net7.0\ref\Atividade 11.dll
